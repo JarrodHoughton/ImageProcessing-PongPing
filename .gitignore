@@ -35,7 +35,8 @@ htmlcov/
 nosetests.xml 
 coverage.xml 
 *.cover 
-.hypothesis/ 
+.hypothesis/
+.conda 
 
 # Translations
 *.mo
@@ -56,6 +57,7 @@ ipython_config.py
 
 # pyflow
 __pypackages__/
+__pycache__
 
 # Environment
 .env
